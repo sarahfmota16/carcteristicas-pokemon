@@ -16,6 +16,3 @@ Este programa consulta a **PokéAPI** para obter informações sobre um Pokémon
 - **Python 3**
 - **Requests** (para fazer a requisição HTTP)
 
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
